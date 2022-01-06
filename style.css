@@ -1,0 +1,161 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    margin: 5px;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: darkred;
+}
+.display{
+    display: flex;
+    margin-left: 100px;
+}
+.width{
+    width: 80%;
+    padding-left: 5%;
+   }
+
+.width-image img{
+    width: 50%;
+    height: 90%;
+    padding-left: 5%;
+    padding-top: 5%;
+    margin-left: 20%;
+  
+}
+#border h1{
+    border-left:10px solid rgb(250, 128, 114) ;
+    border-width: 5px;
+    padding-left: 10px;
+    border-image-slice: 1;
+}
+.link-button{
+    text-decoration: none;
+    background-color: salmon;
+    color:white;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+.color-mission{
+    color: darksalmon;
+}
+.mission_heading{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 40px;
+}
+.flex{
+    display: flex;
+    margin-bottom: 60px;
+}
+.mission img{
+    height: 100px;
+}
+.mission{
+    background-color: #edf5f6;
+    padding: 39px;
+    border-radius: 20px;
+    margin-left: 10% ;
+    margin-right: 20px;
+    width: 25%;
+    height: 36%;
+
+}
+
+.vission{
+    background-color: #fcd9d9;
+    padding: 39px;
+    border-radius: 20px;
+    margin-left: 50px;
+    /*margin-right: 20px;*/
+    width: 26%;
+    height: 20%;
+}
+.vission img{
+    height: 100px;
+}
+
+.goal{
+    background-color: #cff5fa;
+    padding: 39px;
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 9px;
+    width: 26%;
+    height: 20%;
+}
+.goal img{
+    height: 100px;
+}
+.third-section {
+    display: flex;
+    justify-content: center;
+  }
+  .image img {
+    width: 340px;
+    height: 80%;
+  }
+  .right-side {
+    width: 40%;
+    padding-right: 80px;
+    padding-left: 10%;
+    margin-top: 50px;
+  }
+  .right-side p {
+    margin-bottom: 40px;
+}
+.fourth_section {
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+  }
+  .project img {
+    width: 400px;
+    height: 80%;
+  }
+  .left-sdie {
+    width: 40%;
+    padding-right: 80px;
+    margin-top: 39px;
+  }
+  .left-sdie p {
+    margin-bottom: 40px;
+}
+  .fifth_section {
+    display: flex;
+    justify-content: center;
+  }
+  .front-image img {
+    width: 400px;
+    height: 80%;
+    margin-left: 50px;
+    margin-top: 20%;
+  }
+  .content {
+    width: 40%;
+    padding-left: 80px;
+  }
+  .footer_section {
+    background-color: #1f243d;
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.footer_element {
+    padding-top: 1px;
+    padding-bottom: 12px;
+}
+
+.footer_element h1 {
+    font-style: italic;
+    margin-bottom: 1px;
+}
+
+.footer_element span {
+    color: salmon;
+}
